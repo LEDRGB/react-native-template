@@ -9,10 +9,6 @@
     "template",
     "template.config.js"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/emin93/react-native-template-typescript.git"
-  },
   "keywords": [
     "react-native",
     "typescript",
@@ -20,10 +16,5 @@
     "template",
     "boilerplate"
   ],
-  "author": "Emin Khateeb <emin@emin.ch>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/emin93/react-native-template-typescript/issues"
-  },
-  "homepage": "https://github.com/emin93/react-native-template-typescript#readme"
+  "license": "MIT"
 }
